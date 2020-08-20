@@ -17,23 +17,23 @@ Here are some ideas to get you started:
 
 
 
-**Connect with Me**
+#### Connect with Me
 
 [Twitter](https://twitter.com/timmitra) | [LinkedIn](https://www.linkedin.com/in/itguycanada/) | [MTJC Podcast](https://mtjc.fireside.fm) | [Blog](https://www.it-guy.com/blog/)
 
-**Work**
+#### Work
 
 I'm an engineering manager at TD Bank.
 
-**Conference Talks**
+#### Conference Talks
 
-Where I've Given Talks:
+##### Where I've Given Talks:
 
 - 🇨🇦 Canada
 - 🇺🇸 USA
 
 
-Conference Videos
+#### Conference Videos
 
 - SwiftTO
 - 360iDev
@@ -41,7 +41,7 @@ Conference Videos
 - Apple Expo
 <!-- My presentations (including video and slides) can be found in my Conference-Talks repo. -->
 
-Podcasts
+#### Podcasts
 
 - I founded and host the More Than Just Code podcast since 2014.
 - I founded and host the Spock Cast podcast since 2014.
