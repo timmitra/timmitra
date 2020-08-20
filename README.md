@@ -1,4 +1,4 @@
-### Hi there 👋
+### iOS Developer, Podcaster, Artist, Conference Speaker.
 
 <!--
 **timmitra/timmitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+Connect with Me
+
+Twitter | LinkedIn | Podcast | Blog
+
+Work
+
+I'm an engineering manager at TD Bank.
+
+Conference Talks
+
+Where I've Given Talks:
+
+🇨🇦 Canada
+🇺🇸 USA
+Upcoming
+
+Conference Videos
+
+<!-- My presentations (including video and slides) can be found in my Conference-Talks repo. -->
+
+Podcasts
+
+I founded and host the More Than Just Code podcast since 2014.
+I founded and host the Spock Cast podcast since 2014.
+I co-hosted the Roundabout Creative Chaos podcast since 2016.
+I been a guest on:
+OK Productive 030. Neuroplasticity with Tim Mitra,
+Episode 48 Roundabout Creative Chaos,
+Swift Coders: Interviews with Swift Developers Ep 62,
+Springboard 2014.
