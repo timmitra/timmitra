@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Connect with Me
 
-Twitter(https://twitter.com/timmitra) | LinkedIn | Podcast | Blog
+[Twitter](https://twitter.com/timmitra) | [LinkedIn](https://www.linkedin.com/in/itguycanada/) | [MTJC Podcast](https://mtjc.fireside.fm) | [Blog](https://www.it-guy.com/blog/)
 
 Work
 
