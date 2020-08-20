@@ -1,3 +1,5 @@
+
+![Tim Mitra](https://www.it-guy.com/wp-new/wp-content/uploads/2020/04/IMG_3268-scaled.jpeg)
 ### iOS Developer, Podcaster, Artist, Conference Speaker.
 
 <!--
