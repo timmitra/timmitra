@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Connect with Me
 
-Twitter | LinkedIn | Podcast | Blog
+Twitter(https://twitter.com/timmitra) | LinkedIn | Podcast | Blog
 
 Work
 
