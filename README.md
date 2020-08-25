@@ -38,7 +38,7 @@ I'm an engineering manager at TD Bank.
 #### Conference Videos
 
 - [SwiftTO: 5 Ways to Level Up Your Mobile Development](https://vimeo.com/354580074)
-- 360iDev
+- [360iDev: Being a Better Developer By Talking](https://vimeo.com/232056876)
 - Indie Devstock
 - Apple Expo
 <!-- My presentations (including video and slides) can be found in my Conference-Talks repo. -->
