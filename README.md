@@ -37,7 +37,7 @@ I'm an engineering manager at TD Bank.
 
 #### Conference Videos
 
-- SwiftTO
+- [SwiftTO: 5 Ways to Level Up Your Mobile Development](https://vimeo.com/354580074)
 - 360iDev
 - Indie Devstock
 - Apple Expo
@@ -45,8 +45,8 @@ I'm an engineering manager at TD Bank.
 
 #### Podcasts
 
-- I founded and host the More Than Just Code podcast since 2014.
-- I founded and host the Spock Cast podcast since 2014.
+- I founded and have hosted the More Than Just Code podcast since 2014.
+- I founded and have hosted the Spock Cast podcast since 2014.
 - I co-hosted the Roundabout Creative Chaos podcast since 2016.
 - I been a guest on:
 - OK Productive 030. Neuroplasticity with Tim Mitra,
