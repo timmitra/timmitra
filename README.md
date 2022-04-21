@@ -45,7 +45,7 @@ I'm an engineering manager at TD Bank.
 
 #### Podcasts
 
-- I founded and have hosted the More Than Just Code podcast since 2014.
+- I founded and have hosted the [More Than Just Code](https://mtjc.fireside.fm) podcast since 2014.
 - I founded and have hosted the Spock Cast podcast since 2014.
 - I co-hosted the Roundabout Creative Chaos podcast since 2016.
 - I been a guest on:
