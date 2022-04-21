@@ -50,6 +50,6 @@ I'm an engineering manager at TD Bank.
 - I co-hosted the Roundabout Creative Chaos podcast since 2016.
 - I been a guest on:
 - [OK Productive 030. Neuroplasticity with Tim Mitra](https://okproductive.com/episodes/030-neuroplasticity-with-tim-mitra),
-- Episode 48 Roundabout Creative Chaos,
+- [Episode 48 – Tim Mitra, Roundabout Creative Chaos](https://roundaboutfm.com/episode-48-tim-mitra/),
 - Swift Coders: Interviews with Swift Developers Ep 62,
 - Springboard 2014.
