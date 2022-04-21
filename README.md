@@ -49,7 +49,9 @@ I'm an engineering manager at TD Bank.
 - I founded and have hosted the Spock Cast podcast since 2014.
 - I co-hosted the Roundabout Creative Chaos podcast since 2016.
 - I been a guest on:
+- [The Art and Science of Building Mobile Banking Applications feat. Tim Mitra](https://www.podbean.com/media/share/dir-rgwwu-fb59a2e)
+- [Core Data Fun with Tim Mitra](https://www.podbean.com/media/share/dir-i3kdb-dd1a528)
 - [OK Productive 030. Neuroplasticity with Tim Mitra](https://okproductive.com/episodes/030-neuroplasticity-with-tim-mitra),
 - [Episode 48 – Tim Mitra, Roundabout Creative Chaos](https://roundaboutfm.com/episode-48-tim-mitra/),
-- Swift Coders: Interviews with Swift Developers Ep 62,
+- [Swift Coders: Interviews with Swift Developers Ep 62: Tim Mitra - Lead iOS Dev & Host of MTJC Podcast](https://www.podbean.com/media/share/pb-ijsqe-6dd23d),
 - Springboard 2014.
