@@ -54,6 +54,7 @@ I'm an engineering manager at TD Bank.
 - [OK Productive 030. Neuroplasticity with Tim Mitra](https://okproductive.com/episodes/030-neuroplasticity-with-tim-mitra),
 - [Episode 48 – Tim Mitra, Roundabout Creative Chaos](https://roundaboutfm.com/episode-48-tim-mitra/),
 - [Swift Coders: Interviews with Swift Developers Ep 62: Tim Mitra - Lead iOS Dev & Host of MTJC Podcast](https://www.podbean.com/media/share/pb-ijsqe-6dd23d),
+- [SestraCast: 24: "Newer Elements of Our Defense" (S3E4) with guest co-host Tim Mitra](https://www.listennotes.com/podcasts/sestracast/24-newer-elements-of-our-uq4jeypgRtS/)
 - Springboard 2014.
 
 #### Videos
