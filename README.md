@@ -62,6 +62,7 @@ I was iOS Engineering Manager at TD Banke from January 2016 to June 2022.
 
 #### Videos
 
+- [MTJC Episode 348 - Pre-WWDC 2022](https://youtu.be/Nhz3PDlM7sg)
 - [340 Roustem Karimov founder of Agilebits makers of 1Password](https://youtu.be/AanWZ6aSgYA)
 - [339 Marin Todorov - MTJC](https://youtu.be/I57LrRJP4q4)
 - [337 Joe Cieplinski - MTJC](https://youtu.be/Cn9UHvtl-2I)
