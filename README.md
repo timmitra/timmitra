@@ -30,6 +30,8 @@ I was iOS Engineering Manager at TD Banke from January 2016 to June 2022.
 
 #### Conference Talks
 
+- Upcoming: [We Regret To Inform You... at 360iDev 2022](https://360iDev.com)
+
 ##### Where I've Given Talks:
 
 - 🇨🇦 Canada
