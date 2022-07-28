@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 #### Work
 
 I'm an Sr. Engineering Manager, iOS at SpotHero since July 2022.
-I was iOS Engineering Manager at TD Banke from January 2016 to June 2022.
+I was iOS Engineering Manager at TD Bank from January 2016 to June 2022.
 
 #### Conference Talks
 
