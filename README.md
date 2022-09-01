@@ -31,7 +31,7 @@ I've been running [iT Guy Technologies](https://www.it-guy.com) since April 2005
 
 #### Conference Talks
 
-- Upcoming: [We Regret To Inform You... at 360iDev 2022](https://360iDev.com)
+- Upcoming: [We Regret To Inform You... Aug 31, 2021 at 360iDev 2022](https://360idev.com/session/we-regret-to-inform-you/)
 
 ##### Where I've Given Talks:
 
