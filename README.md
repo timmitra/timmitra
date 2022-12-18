@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 #### Connect with Me
 
-[Twitter](https://twitter.com/timmitra) | [LinkedIn](https://www.linkedin.com/in/itguycanada/) | [MTJC Podcast](https://mtjc.fireside.fm) | [Blog](https://www.it-guy.com/blog/) | [Mastodon](https://mastodon.social/@timmitra)
+Twitter | [LinkedIn](https://www.linkedin.com/in/itguycanada/) | [MTJC Podcast](https://mtjc.fireside.fm) | [Blog](https://www.it-guy.com/blog/) | [Mastodon](https://mastodon.social/@timmitra)
 
 #### Work
 
@@ -31,7 +31,7 @@ I've been running [iT Guy Technologies](https://www.it-guy.com) since April 2005
 
 #### Conference Talks
 
-- Upcoming: [We Regret To Inform You... Aug 31, 2021 at 360iDev 2022](https://360idev.com/session/we-regret-to-inform-you/)
+- Latest: [We Regret To Inform You... Aug 31, 2021 at 360iDev 2022](https://360idev.com/session/we-regret-to-inform-you/)
 
 ##### Where I've Given Talks:
 
