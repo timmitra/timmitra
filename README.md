@@ -54,6 +54,7 @@ I've been running [iT Guy Technologies](https://www.it-guy.com) since April 2005
 - I founded and have hosted the [Spock Cast](https://spockcast.com) podcast since 2014.
 - I co-hosted the [Roundabout Creative Chaos](https://roundaboutfm.com) podcast from 2016 to 2019.
 - I been a guest on:
+- [Yak Shaving with Tim Mitra](https://brightdigit.com/episodes/144-yak-shaving-with-tim-mitra/)
 - [The Art and Science of Building Mobile Banking Applications feat. Tim Mitra](https://www.podbean.com/media/share/dir-rgwwu-fb59a2e)
 - [Core Data Fun with Tim Mitra](https://www.podbean.com/media/share/dir-i3kdb-dd1a528)
 - [OK Productive 030. Neuroplasticity with Tim Mitra](https://okproductive.com/episodes/030-neuroplasticity-with-tim-mitra),
@@ -64,6 +65,7 @@ I've been running [iT Guy Technologies](https://www.it-guy.com) since April 2005
 
 #### Videos
 
+- [Yak Shaving with Tim Mitra](https://youtube.com/watch?v=rv5cpWOo11k&si=EnSIkaIECMiOmarE)
 - [MTJC Episode 348 - Pre-WWDC 2022](https://youtu.be/Nhz3PDlM7sg)
 - [340 Roustem Karimov founder of Agilebits makers of 1Password](https://youtu.be/AanWZ6aSgYA)
 - [339 Marin Todorov - MTJC](https://youtu.be/I57LrRJP4q4)
