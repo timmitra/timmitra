@@ -50,8 +50,9 @@ I've been running [iT Guy Technologies](https://www.it-guy.com) since April 2005
 
 #### Podcasts
 
-- I founded and have hosted the [More Than Just Code](https://mtjc.fireside.fm) podcast since 2014.
-- I founded and have hosted the [Spock Cast](https://spockcast.com) podcast since 2014.
+- I founded and have hosted the [More Than Just Code](https://mtjc.fireside.fm) podcast in 2014. 357 episodes as of March 23, 2023.
+- I founded and have hosted the [Spock Cast](https://spockcast.com) podcast in 2014. 154 episodes as of March 23, 2024.
+- You can watch some of the podcast vdieos on my [Youtube Channel](https://youtube.com/@timmitra).
 - I co-hosted the [Roundabout Creative Chaos](https://roundaboutfm.com) podcast from 2016 to 2019.
 - I been a guest on:
 - [Yak Shaving with Tim Mitra](https://brightdigit.com/episodes/144-yak-shaving-with-tim-mitra/)
