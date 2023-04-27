@@ -46,6 +46,7 @@ I've been running [iT Guy Technologies](https://www.it-guy.com) since April 2005
 - [360iDev: Being a Better Developer By Talking](https://vimeo.com/232056876)
 - Indie Devstock 2016 - Nashville
 - Apple Expo 2011 - Toronto
+- Apple Expo 2010 - Toronto
 - Macworld 2008 - San Francisco
 <!-- My presentations (including video and slides) can be found in my Conference-Talks repo. -->
 
