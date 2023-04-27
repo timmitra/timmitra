@@ -44,8 +44,9 @@ I've been running [iT Guy Technologies](https://www.it-guy.com) since April 2005
 - [360iDev 2022 - Tim Mitra - We regret to inform you… finding a job as an iOS Engineer](https://youtu.be/3LvPG55MFSE)
 - [SwiftTO: 5 Ways to Level Up Your Mobile Development](https://vimeo.com/354580074)
 - [360iDev: Being a Better Developer By Talking](https://vimeo.com/232056876)
-- Indie Devstock
-- Apple Expo
+- Indie Devstock 2016 - Nashville
+- Apple Expo 2011 - Toronto
+- Macworld 2008 - San Francisco
 <!-- My presentations (including video and slides) can be found in my Conference-Talks repo. -->
 
 #### Podcasts
