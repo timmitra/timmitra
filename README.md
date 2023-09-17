@@ -89,3 +89,6 @@ I've been running [iT Guy Technologies](https://www.it-guy.com) since April 2005
 - [How To Keep Learning After 50 and Other Ways to Hack Your Brain at any Age](https://www.raywenderlich.com/79-how-to-keep-learning-after-50-and-other-ways-to-hack-your-brain-at-any-age)
 - [How To Secure iOS User Data: The Keychain and Biometrics — Face ID or Touch ID](https://www.raywenderlich.com/236-how-to-secure-ios-user-data-the-keychain-and-biometrics-face-id-or-touch-id)
 - [Is Swift Ready For The Enterprise?](https://www.raywenderlich.com/692-is-swift-ready-for-the-enterprise)
+
+#### Stats
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmitra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
