@@ -92,3 +92,4 @@ I've been running [iT Guy Technologies](https://www.it-guy.com) since April 2005
 
 #### Stats
 [![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timmitra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmitra)](https://github.com/anuraghazra/github-readme-stats)
