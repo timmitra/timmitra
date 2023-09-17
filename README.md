@@ -91,4 +91,4 @@ I've been running [iT Guy Technologies](https://www.it-guy.com) since April 2005
 - [Is Swift Ready For The Enterprise?](https://www.raywenderlich.com/692-is-swift-ready-for-the-enterprise)
 
 #### Stats
-https://github-readme-stats.vercel.app/api?username=timmitra&show_icons=true&count_private=true&theme=radical
+[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timmitra)](https://github.com/anuraghazra/github-readme-stats)
