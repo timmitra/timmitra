@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 #### Connect with Me
 
-Twitter | [LinkedIn](https://www.linkedin.com/in/itguycanada/) | [MTJC Podcast](https://mtjc.fireside.fm) | [Blog](https://www.it-guy.com/blog/) | [Mastodon](https://mastodon.social/@timmitra)
+Twitter | [LinkedIn](https://www.linkedin.com/in/itguycanada/) | [MTJC Podcast](https://mtjc.fm) | [SpockCast Podcast](https://spockcast.com) | [Blog](https://www.it-guy.com/blog/) | [Mastodon](https://mastodon.social/@timmitra)
 
 #### Work
 
