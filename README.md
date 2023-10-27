@@ -30,6 +30,7 @@ I've been running my own software & managed services IT company [iT Guy Technolo
 I was Sr. Engineering Manager, iOS at [SpotHero](https://spothero.com), from June 2022 - August 2023.
 I was iOS Engineering Manager at TD Bank from January 2016 to June 2022.
 
+Most of my commits are to private repositories.
 
 #### Conference Talks
 
