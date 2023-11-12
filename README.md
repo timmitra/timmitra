@@ -60,6 +60,7 @@ Most of my commits are to private repositories.
 - You can watch some of the podcast vdieos on my [Youtube Channel](https://youtube.com/@timmitra).
 - I co-hosted the [Roundabout Creative Chaos](https://roundaboutfm.com) podcast from 2016 to 2019.
 - I been a guest on:
+- Getting Stated With visionOS (Coming Soon.)
 - [Yak Shaving with Tim Mitra](https://brightdigit.com/episodes/144-yak-shaving-with-tim-mitra/)
 - [The Art and Science of Building Mobile Banking Applications feat. Tim Mitra](https://www.podbean.com/media/share/dir-rgwwu-fb59a2e)
 - [Core Data Fun with Tim Mitra](https://www.podbean.com/media/share/dir-i3kdb-dd1a528)
@@ -71,6 +72,7 @@ Most of my commits are to private repositories.
 
 #### Videos
 
+- Getting Started with visionOS (Comming soon.)
 - [Yak Shaving with Tim Mitra](https://youtube.com/watch?v=rv5cpWOo11k&si=EnSIkaIECMiOmarE)
 - [MTJC Episode 348 - Pre-WWDC 2022](https://youtu.be/Nhz3PDlM7sg)
 - [340 Roustem Karimov founder of Agilebits makers of 1Password](https://youtu.be/AanWZ6aSgYA)
