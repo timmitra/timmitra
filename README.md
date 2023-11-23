@@ -73,7 +73,18 @@ Most of my commits are to private repositories.
 #### Videos
 
 - [Introduction to visionOS](https://www.kodeco.com/ios/paths/introduction-to-visionos)
+- [SwiftTO Speaker Series: Sommer Panage On Accessibility, MTJC Episode 370](https://youtu.be/xCMJrK5VU5c?si=C6tUjTyzWm80LtzW)
+- [Swift TO Speaker Series: Terry Latanville, MTJC Episode 369](https://youtu.be/_eZf3kYMjL0?si=Z1VW_tNYbnD7LoZN)
+- [SwiftTO Speaker Series: Danijela Vrzan, MTJC Episode 367](https://youtu.be/kWoArujt2bQ?si=83CZxxgceqiPrl8U)
+- [Hacking With Paul Hudson - MTJC Episode 363](https://youtu.be/JN_4pXOP3KI?si=kKr7weAZnPHA7mca)
+- [SwiftTO Speaker Series: Matt Massicotte, Ep 362 More Than Just Code podcast](https://youtu.be/AYGJVWwc5hQ?si=F1xDdhovNTOGHLZb)
+- [Stewart Lynch, The Swift Professor - Episode 361, More Than Just Code podcast](https://youtu.be/y7KuGXiXZXY?si=wZUc_-BtM4b606aK)
+- [The Curious Case of Daniel Steinberg (episode 360)](https://youtu.be/KVC9768sa2o?si=1z6XyjFCEUDEUvui)
+- [Ep. 358 Mark Moeykens - Mastering Core Data with SwiftUI](https://youtu.be/McSbKE17r9o?si=uy5fXqt8RO4xkKNt)
+- [Ep. 357 - Malin Sundburg & Kai Dombrowski from Triple Glazed Studios](https://youtu.be/_cFNGK2PuOE?si=-7PlEeiaSJpCESoN)
 - [Yak Shaving with Tim Mitra](https://youtube.com/watch?v=rv5cpWOo11k&si=EnSIkaIECMiOmarE)
+- [MTJC Episode 356 Leo Dion](https://youtu.be/QaxHuQAgNsg?si=MU9Mu5Tia2nJ76WA)
+- [Ep. 354 - What Did You Think Was Going To Happen?! - George Stroumboulopoulos of The Strombo Show](https://youtu.be/QjFZRi4pQMQ?si=uHPWYUkUF0RBtPkz)
 - [MTJC Episode 348 - Pre-WWDC 2022](https://youtu.be/Nhz3PDlM7sg)
 - [340 Roustem Karimov founder of Agilebits makers of 1Password](https://youtu.be/AanWZ6aSgYA)
 - [339 Marin Todorov - MTJC](https://youtu.be/I57LrRJP4q4)
