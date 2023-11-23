@@ -72,7 +72,7 @@ Most of my commits are to private repositories.
 
 #### Videos
 
-- Getting Started with visionOS (Comming soon.)
+- [Introduction to visionOS](https://www.kodeco.com/ios/paths/introduction-to-visionos)
 - [Yak Shaving with Tim Mitra](https://youtube.com/watch?v=rv5cpWOo11k&si=EnSIkaIECMiOmarE)
 - [MTJC Episode 348 - Pre-WWDC 2022](https://youtu.be/Nhz3PDlM7sg)
 - [340 Roustem Karimov founder of Agilebits makers of 1Password](https://youtu.be/AanWZ6aSgYA)
