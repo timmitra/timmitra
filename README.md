@@ -81,7 +81,7 @@ Most of my commits are to private repositories.
 
 - [Introduction to visionOS](https://www.kodeco.com/ios/paths/introduction-to-visionos)
 - [376 Martin Woodward](https://www.youtube.com/watch?v=FVhOXO4HDJI&t=1695s)
-- [375 Aloha Steve Lipton)(https://www.youtube.com/watch?v=fpJ7mRq0vmU&t=1s) 
+- [375 Aloha Steve Lipton](https://www.youtube.com/watch?v=fpJ7mRq0vmU&t=1s) 
 - [SwiftTO Speaker Series: Sommer Panage On Accessibility, MTJC Episode 370](https://youtu.be/xCMJrK5VU5c?si=C6tUjTyzWm80LtzW)
 - [Swift TO Speaker Series: Terry Latanville, MTJC Episode 369](https://youtu.be/_eZf3kYMjL0?si=Z1VW_tNYbnD7LoZN)
 - [SwiftTO Speaker Series: Danijela Vrzan, MTJC Episode 367](https://youtu.be/kWoArujt2bQ?si=83CZxxgceqiPrl8U)
