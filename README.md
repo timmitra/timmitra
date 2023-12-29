@@ -35,8 +35,24 @@ Most of my commits are to private repositories.
 #### iOS Apps
 
 - [Device Tracker](https://devicetrackerapp.com/) on the [App Store](https://itunes.apple.com/us/app/device-tracker/id398472363?mt=8&at=10l662)
+- [The Strombo Show](https://apps.apple.com/ca/app/the-strombo-show/id451907333)
 - [Pi Day Countdown](https://apps.apple.com/ca/app/pi-day-countdown/id424560921)
 - [Geese Squad](https://apps.apple.com/ca/app/geese-squad/id506573523)
+- [Security Guard 101](http://itunes.apple.com/app/security-guard-101/id448724627?mt=8)
+- 2Life
+- 2Life Baby
+- 2Life Ulitmate Wedding Planner
+- 2Magazine
+- The Bay Gift Registry By 2 For Life Media Inc
+- Royal Wedding 2011
+- PARTY TRICKS: The Ultimate Entertaining Guide
+- 101 BRIDAL GOWNS: Big Style For Your Big Day
+- 101 AMAZING GIFTS By 2 For Life Media Inc
+- Imakoo, le sudoku des mots
+- Bianselon iOS Game
+- Secom Training
+- John Hancock Insurance i-Illustrator
+- 
 
 
 #### Conference Talks
