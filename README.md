@@ -52,7 +52,6 @@ Most of my commits are to private repositories.
 - Bianselon iOS Game
 - Secom Training
 - John Hancock Insurance i-Illustrator
-- 
 
 
 #### Conference Talks
