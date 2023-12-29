@@ -32,6 +32,13 @@ I was iOS Engineering Manager at TD Bank from January 2016 to June 2022.
 
 Most of my commits are to private repositories.
 
+#### iOS Apps
+
+- [Device Tracker](https://devicetrackerapp.com/) on the [App Store](https://itunes.apple.com/us/app/device-tracker/id398472363?mt=8&at=10l662)
+- [Pi Day Countdown](https://apps.apple.com/ca/app/pi-day-countdown/id424560921)
+- [Geese Squad](https://apps.apple.com/ca/app/geese-squad/id506573523)
+
+
 #### Conference Talks
 
 - Latest: [We Regret To Inform You... Aug 31, 2021 at 360iDev 2022](https://360idev.com/session/we-regret-to-inform-you/)
@@ -73,6 +80,8 @@ Most of my commits are to private repositories.
 #### Videos
 
 - [Introduction to visionOS](https://www.kodeco.com/ios/paths/introduction-to-visionos)
+- [376 Martin Woodward](https://www.youtube.com/watch?v=FVhOXO4HDJI&t=1695s)
+- [375 Aloha Steve Lipton)(https://www.youtube.com/watch?v=fpJ7mRq0vmU&t=1s) 
 - [SwiftTO Speaker Series: Sommer Panage On Accessibility, MTJC Episode 370](https://youtu.be/xCMJrK5VU5c?si=C6tUjTyzWm80LtzW)
 - [Swift TO Speaker Series: Terry Latanville, MTJC Episode 369](https://youtu.be/_eZf3kYMjL0?si=Z1VW_tNYbnD7LoZN)
 - [SwiftTO Speaker Series: Danijela Vrzan, MTJC Episode 367](https://youtu.be/kWoArujt2bQ?si=83CZxxgceqiPrl8U)
