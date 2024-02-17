@@ -34,6 +34,7 @@ Most of my commits are to private repositories.
 
 #### My iOS Apps
 
+- [JobLog - Application Tracker](https://apps.apple.com/us/app/joblog-application-tracker/id6475248355) on the App Store (iOS, iPadOS, & Vision Pro)
 - [Device Tracker](https://devicetrackerapp.com/) on the [App Store](https://itunes.apple.com/us/app/device-tracker/id398472363?mt=8&at=10l662)
 - [The Strombo Show](https://apps.apple.com/ca/app/the-strombo-show/id451907333)
 - [Pi Day Countdown](https://apps.apple.com/ca/app/pi-day-countdown/id424560921)
