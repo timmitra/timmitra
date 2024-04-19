@@ -63,10 +63,12 @@ Most of my commits are to private repositories.
 
 - 🇨🇦 Canada
 - 🇺🇸 USA
+- 🇨🇳 China
 
 
 #### Conference Videos
 
+- Let's visionOS 2024 - 2024: A Spatcial Odyssey, or How I Learned to Stop Worrying and Embrace visionOS, Beijing.
 - [360iDev 2022 - Tim Mitra - We regret to inform you… finding a job as an iOS Engineer](https://youtu.be/3LvPG55MFSE)
 - [SwiftTO: 5 Ways to Level Up Your Mobile Development](https://vimeo.com/354580074)
 - [360iDev: Being a Better Developer By Talking](https://vimeo.com/232056876)
@@ -122,7 +124,7 @@ Most of my commits are to private repositories.
 - [iOS App Extensions](https://www.raywenderlich.com/4173-ios-app-extensions)
 - [One More Thing - James Demsey & the Breakpoints](https://music.apple.com/ca/album/one-more-thing-single/1588956156)
 
-#### Articles
+#### Featured Articles
 
 - [visionOS Beyond the Basics: RealityKit & Reality Compser Pro](https://www.kodeco.com/ios/paths/visionos-beyond-the-basics)
 - [Introduction to visionOS](https://www.kodeco.com/ios/paths/introduction-to-visionos)
