@@ -95,6 +95,7 @@ Most of my commits are to private repositories.
 
 #### Videos
 
+- [visionOS Beyond the Basics: RealityKit & Reality Compser Pro](https://www.kodeco.com/ios/paths/visionos-beyond-the-basics)
 - [Introduction to visionOS](https://www.kodeco.com/ios/paths/introduction-to-visionos)
 - [376 Martin Woodward](https://www.youtube.com/watch?v=FVhOXO4HDJI&t=1695s)
 - [375 Aloha Steve Lipton](https://www.youtube.com/watch?v=fpJ7mRq0vmU&t=1s) 
@@ -123,6 +124,7 @@ Most of my commits are to private repositories.
 
 #### Articles
 
+- [visionOS Beyond the Basics: RealityKit & Reality Compser Pro](https://www.kodeco.com/ios/paths/visionos-beyond-the-basics)
 - [Introduction to visionOS](https://www.kodeco.com/ios/paths/introduction-to-visionos)
 - [Debugging UIKit Views with Reveal](https://www.raywenderlich.com/21462794-debugging-uikit-views-with-reveal)
 - [Fastlane for iOS](https://www.raywenderlich.com/1259223-fastlane-for-ios)
