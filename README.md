@@ -34,6 +34,7 @@ Most of my commits are to private repositories.
 
 #### My iOS Apps
 
+- [What's In My Closet](https://apps.apple.com/ca/app/whats-in-my-closet/id869652478) on the App Store (iOS, iPadOS, & Vision Pro)
 - [JobLog - Application Tracker](https://apps.apple.com/us/app/joblog-application-tracker/id6475248355) on the App Store (iOS, iPadOS, & Vision Pro)
 - [Device Tracker](https://devicetrackerapp.com/) on the [App Store](https://itunes.apple.com/us/app/device-tracker/id398472363?mt=8&at=10l662)
 - [The Strombo Show](https://apps.apple.com/ca/app/the-strombo-show/id451907333)
@@ -69,7 +70,7 @@ Most of my commits are to private repositories.
 #### Conference Videos
 
 - [Get Hands-On with Vision Pro: August 21, 2024](https://youtu.be/tg-yJQOPuhA)
-- [OMT Conf 2024: 2024: A Spatial Odyssey, or How I Learned to Stop Worrying and Embrace visionOS]
+- OMT Conf 2024: 2024: A Spatial Odyssey, or How I Learned to Stop Worrying and Embrace visionOS
 - [Let's visionOS 2024 - 2024: A Spatial Odyssey, or How I Learned to Stop Worrying and Embrace visionOS, Beijing](https://youtu.be/Zhf5MJVKKqM)
 - [We Regret To Inform You... Aug 31, 2021 at 360iDev 2022](https://360idev.com/session/we-regret-to-inform-you/)
 - [360iDev 2022 - Tim Mitra - We regret to inform you… finding a job as an iOS Engineer](https://youtu.be/3LvPG55MFSE)
