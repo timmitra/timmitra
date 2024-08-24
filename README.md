@@ -68,7 +68,8 @@ Most of my commits are to private repositories.
 
 #### Conference Videos
 
-- [Get Hands-On with Vision Pro](https://youtu.be/tg-yJQOPuhA)
+- [Get Hands-On with Vision Pro: August 21, 2024](https://youtu.be/tg-yJQOPuhA)
+- [OMT Conf 2024: 2024: A Spatial Odyssey, or How I Learned to Stop Worrying and Embrace visionOS]
 - [Let's visionOS 2024 - 2024: A Spatial Odyssey, or How I Learned to Stop Worrying and Embrace visionOS, Beijing](https://youtu.be/Zhf5MJVKKqM)
 - [We Regret To Inform You... Aug 31, 2021 at 360iDev 2022](https://360idev.com/session/we-regret-to-inform-you/)
 - [360iDev 2022 - Tim Mitra - We regret to inform you… finding a job as an iOS Engineer](https://youtu.be/3LvPG55MFSE)
