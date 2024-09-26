@@ -101,8 +101,12 @@ Most of my commits are to private repositories.
 - Springboard 2014.
 
 #### Videos
-
+- [Episode 383 Dave Delong - More Than Just Code podcast](https://youtu.be/7CT03M-mt9A)
+- [Looking Ahead: Oliver Weidlich, Episode 381](https://youtu.be/JUYQgnVgJd4)
+- [Episode 380 Charlie Chapman - MTJC](https://youtu.be/VGWqgopI6Sk)
+- [Vision Pro - On Your Face, Not In Your Face with Joe Cieplinski - Ep 378 MTJC](https://youtu.be/tDvpAYOwPIg)
 - [visionOS Beyond the Basics: RealityKit & Reality Compser Pro](https://www.kodeco.com/ios/paths/visionos-beyond-the-basics)
+- [Aloha Steve Lipton - Episode 375 MTJC Podcast](https://youtu.be/fpJ7mRq0vmU)
 - [Introduction to visionOS](https://www.kodeco.com/ios/paths/introduction-to-visionos)
 - [376 Martin Woodward](https://www.youtube.com/watch?v=FVhOXO4HDJI&t=1695s)
 - [375 Aloha Steve Lipton](https://www.youtube.com/watch?v=fpJ7mRq0vmU&t=1s) 
