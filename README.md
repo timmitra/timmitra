@@ -129,8 +129,11 @@ Most of my commits are to private repositories.
 - [iOS App Extensions](https://www.raywenderlich.com/4173-ios-app-extensions)
 - [One More Thing - James Demsey & the Breakpoints](https://music.apple.com/ca/album/one-more-thing-single/1588956156)
 
-#### Featured Articles
+#### Newsletters
+- [diff visionOS, weekly newsletter](https://it-guy-technologies.ck.page) resources for visionOS development updated weekly.
 
+#### Featured Articles
+- [Awesome visionOS Resources](https://github.com/timmitra/visionosresources)
 - [visionOS Beyond the Basics: RealityKit & Reality Compser Pro](https://www.kodeco.com/ios/paths/visionos-beyond-the-basics)
 - [Introduction to visionOS](https://www.kodeco.com/ios/paths/introduction-to-visionos)
 - [Debugging UIKit Views with Reveal](https://www.raywenderlich.com/21462794-debugging-uikit-views-with-reveal)
