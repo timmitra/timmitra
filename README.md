@@ -134,7 +134,7 @@ Most of my commits are to private repositories.
 - [One More Thing - James Demsey & the Breakpoints](https://music.apple.com/ca/album/one-more-thing-single/1588956156)
 
 #### Newsletters
-- [diff visionOS, weekly newsletter](https://it-guy-technologies.ck.page) resources for visionOS development updated weekly.
+- [diff visionOS, weekly newsletter](https://it-guy-technologies.kit.com) resources for visionOS development updated weekly.
 
 #### Featured Articles
 - [Awesome visionOS Resources](https://github.com/timmitra/visionosresources)
