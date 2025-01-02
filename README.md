@@ -27,7 +27,7 @@ Twitter | [LinkedIn](https://www.linkedin.com/in/itguycanada/) | [MTJC Podcast](
 
 I'm open for work in leadership roles, preferabbly iOS and visionOS.
 I've been running my own software & managed services IT company [iT Guy Technologies](https://www.it-guy.com) since April 2005.
-I was Sr. Engineering Manager, iOS at [SpotHero](https://spothero.com), from June 2022 - August 2023.
+I was Sr. Engineering Manager, iOS at SpotHero, from June 2022 - August 2023.
 I was iOS Engineering Manager at TD Bank from January 2016 to June 2022.
 
 Most of my commits are to private repositories.
