@@ -138,6 +138,7 @@ Most of my commits are to private repositories.
 
 #### Featured Articles
 - [Awesome visionOS Resources](https://github.com/timmitra/visionosresources)
+- [Data Persistence with SwiftData](https://www.kodeco.com/ios/paths/continuing-swiftui/45123174-data-persistence-with-swiftdata)
 - [visionOS Beyond the Basics: RealityKit & Reality Compser Pro](https://www.kodeco.com/ios/paths/visionos-beyond-the-basics)
 - [Introduction to visionOS](https://www.kodeco.com/ios/paths/introduction-to-visionos)
 - [Debugging UIKit Views with Reveal](https://www.raywenderlich.com/21462794-debugging-uikit-views-with-reveal)
