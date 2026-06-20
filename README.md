@@ -1,6 +1,6 @@
 
 ![Tim Mitra](https://www.it-guy.com/wp-new/wp-content/uploads/2020/04/IMG_3268-scaled.jpeg)
-### iOS Engineer, Podcaster, Producer, Artist, Conference Speaker.
+### iOS & visionOS Engineer, Podcaster, Producer, Artist, Conference Speaker.
 
 <!--
 **timmitra/timmitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
