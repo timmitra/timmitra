@@ -25,8 +25,11 @@ Twitter | [LinkedIn](https://www.linkedin.com/in/itguycanada/) | [MTJC Podcast](
 
 #### Work
 
-I'm open for work in leadership roles, preferabbly iOS and visionOS.
+I'm current on a six-month contract with Magnit Global (Contracter at Apple Inc.) - June 2026.
+I'm open for work in development of leadership roles, preferabbly iOS and visionOS.
 I've been running my own software & managed services IT company [iT Guy Technologies](https://www.it-guy.com) since April 2005.
+I was a Sr. visionOS Developer at Deloitte - May 2026 to June 2026.
+I was a visionOS Developer at MLSE - December 2023 to January 2024.
 I was Sr. Engineering Manager, iOS at SpotHero, from June 2022 - August 2023.
 I was iOS Engineering Manager at TD Bank from January 2016 to June 2022.
 
