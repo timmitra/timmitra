@@ -25,7 +25,7 @@ Twitter | [LinkedIn](https://www.linkedin.com/in/itguycanada/) | [MTJC Podcast](
 
 #### Work
 
-I'm current on a six-month contract with Magnit Global (Contracter at Apple Inc.) - June 2026.  
+I'm currently on a six-month contract with Magnit Global (Contracter at Apple Inc.) - June 2026.  
 I'm open for work in development of leadership roles, preferabbly iOS and visionOS.  
 I've been running my own software & managed services IT company [iT Guy Technologies](https://www.it-guy.com) since April 2005.  
 I was a Sr. visionOS Developer at Deloitte - May 2026 to June 2026.  
